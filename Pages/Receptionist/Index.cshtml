@@ -1,0 +1,48 @@
+﻿@page
+@model FinalProject.Pages.Receptionist.IndexModel
+
+@{
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <div class="card bg-white shadow-sm mb-4">
+                <div class="card-header bg-success text-white">
+                    <h2 class="mb-0">PATIENTS</h2>
+                </div>
+                <div class="card-body">
+                    <a class='btn btn-success btn-sm' href='/Receptionist/Create'>New Patient</a>
+                    <br />
+                    <br />
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Names</th>
+                                <th>Phone Number</th>
+                                <th>Date of Birth</th>
+                                <th>Address</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.listPatients)
+                            {
+                                <tr>
+                                    <td>@item.names</td>
+                                    <td>@item.phoneNumber</td>
+                                    <td>@item.dob</td>
+                                    <td>@item.address</td>
+                                    @* <td>@item.payment</td> *@
+                                    <td>
+                                        <a class='btn btn-success btn-sm' href="/Receptionist/UpdatePayment">View Payment</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

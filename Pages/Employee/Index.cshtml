@@ -1,0 +1,62 @@
+﻿@page
+@model GroupFourDotNet.Pages.Employee.IndexModel
+
+@{
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            <div class="card bg-white shadow-sm mb-4">
+                <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
+                    <h2 class="mb-0">List of Employees</h2>
+                    <a class='btn btn-light btn-sm' href='/Employee/Create'>New Employee</a>
+                    <a class='btn btn-light btn-sm' href='/Services/Displaying'>Services</a>
+                </div>
+                <div class="card-body p-0">
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover mb-0">
+                            <thead class="bg-light">
+                                <tr>
+                                    @* <th scope="col">Number</th> *@
+                                    <th scope="col">Names</th>
+                                    <th scope="col">Service</th>
+                                    <th scope="col">Phone Number</th>
+                                    <th scope="col">Password</th>
+                                    <th scope="col">Service Provided</th>
+                                    <th scope="col" class="text-center">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.listEmployee)
+                                {
+                                    <tr>
+                                        @* <td>@item.number</td> *@
+                                        <td>@item.names</td>
+                                        <td>@item.serviceType</td>
+                                        <td>@item.phoneNumber</td>
+                                        <td>@item.pwd</td>
+                                        <td>@item.serviceProvided</td>
+                                        <td class="text-center">
+                                            <a class='btn btn-success btn-sm me-2' href="/Employee/Edit?phoneNumber=@item.phoneNumber">Edit</a>
+                                            <a class='btn btn-danger btn-sm' onclick="confirmDelete('@item.phoneNumber')">Delete</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JavaScript function for confirmation -->
+<script>
+    function confirmDelete(phoneNumber) {
+        if (confirm('Are you sure you want to delete this record?')) {
+            window.location.href = '/Employee/Delete?phoneNumber=' + phoneNumber;
+        }
+    }
+</script>

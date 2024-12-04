@@ -1,0 +1,53 @@
+﻿@page
+@model GroupFourDotNet.Pages.Services.UpdateServiceModel
+
+@{
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card bg-white shadow-sm mb-4">
+                <div class="card-header bg-success text-white">
+                    <h2 class="mb-0">Update Service Information</h2>
+                </div>
+                <div class="card-body">
+                    @if (Model.errorMessage.Length > 0)
+                    {
+                        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                            <strong>@Model.errorMessage</strong>
+                            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                        </div>
+                    }
+
+                    <form method="POST">
+                        <input type="hidden" name="id" value="@Model.serviceInfo.id" />
+
+                        <div class="mb-3">
+                            <label class="form-label">Names of the Service Provided</label>
+                            <input type="text" class="form-control" name="type" value="@Model.serviceInfo.type" required>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Amount to be paid</label>
+                            <input type="text" class="form-control" name="price" value="@Model.serviceInfo.price" required>
+                        </div>
+
+                        @if (Model.successMessage.Length > 0)
+                        {
+                            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                <strong>@Model.successMessage</strong>
+                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                            </div>
+                        }
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-success">Submit</button>
+                            <a class="btn btn-outline-secondary" href="/Services/Displaying" role="button">Cancel</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

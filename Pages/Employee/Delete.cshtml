@@ -1,0 +1,31 @@
+﻿@page
+@using System.Data.SqlClient;
+@* @model GroupFourDotNet.Pages.Employee.DeleteModel *@
+@{
+
+    String id = Request.Query["phoneNumber"];
+    try
+    {
+        String conString = "Data Source=PIERRE-KASANANI\\SQLEXPRESS;Initial Catalog=projectDB;Integrated Security=True";
+        using (SqlConnection con = new SqlConnection(conString))
+        {
+            con.Open();
+            String sqlQuery = "DELETE FROM Staff WHERE phoneNumber=@v_phoneNumber";
+            using (SqlCommand cmd = new SqlCommand(sqlQuery, con))
+            {
+                cmd.Parameters.AddWithValue("@v_phoneNumber", id);
+
+                cmd.ExecuteNonQuery();
+            }
+
+        }
+
+    }
+    catch(Exception ex)
+    {
+        Console.WriteLine("Error" + ex.Message);
+
+    }
+
+    Response.Redirect("/Employee/Index");
+}

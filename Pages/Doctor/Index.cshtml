@@ -1,0 +1,70 @@
+﻿@page
+@model Patient_Management_System.Pages.Doctor.IndexModel
+
+@{
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <div class="card bg-white shadow-sm mb-4">
+                <div class="card-header bg-success text-white">
+                    <h2 class="mb-0">List of Treatments</h2>
+                </div>
+                <div class="card-body">
+                    <a class='btn btn-success btn-sm' href='/Treatments/Insert'>New Treatment</a>
+                    <br />
+                    <br />
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Patient Id</th>
+                                <th>Service</th>
+                                <th>Examen Description</th>
+                                <th>Result</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.listTreatments)
+                            {
+                                <tr>
+                                    <td>@item.id</td>
+                                    <td>@item.patient</td>
+                                    <td>@item.serviceType</td>
+                                    <td>@item.examDescription</td>
+                                    <td>
+                                        @foreach (var treatment in Model.listTreatments)
+                                        {
+                                            <div>
+                                                @if (!string.IsNullOrEmpty(treatment.result))
+                                                {
+                                                    <img src="@treatment.result" alt="Image" />
+                                                }
+                                                <!-- Display other treatment information -->
+                                            </div>
+                                        }
+                                    </td>
+                                    <td>
+                                        <a class='btn btn-success btn-sm' href="/Treatments/update">Edit</a>
+                                       @*  <a class='btn btn-danger btn-sm' onclick="confirmDelete('@item.patient')">Delete</a> *@
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JavaScript function for confirmation -->
+<script>
+    function confirmDelete(patientId) {
+        if (confirm('Are you sure you want to delete this record?')) {
+            window.location.href = '/Doctor/Delete?phoneNumber=' + patientId;
+        }
+    }
+</script>

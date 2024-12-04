@@ -1,0 +1,50 @@
+﻿@page
+@model FinalProject.Pages.Shared.Pharmacy.IndexModel
+
+@{
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <div class="card bg-white shadow-sm mb-4">
+                <div class="card-header bg-success text-white">
+                    <h2 class="mb-0">Pharmacy</h2>
+                </div>
+                <div class="card-body">
+                    @* <a class='btn btn-success btn-sm mb-3' href=''>New patient</a> *@
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Ordonnance Id</th>
+                                <th>Treatment Service</th>
+                                <th>Patient Code</th>
+                                <th>Drug name</th>
+                                <th>Description</th>
+                                <th>Drug Price</th>
+                                @* <th>Actions</th> *@
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.listOrdonnance)
+                            {
+                                <tr>
+                                    <td>@item.ordonnanceId</td>
+                                    <td>@item.treatmentId</td>
+                                    <td>@item.patientCode</td>
+                                    <td>@item.drugList</td>
+                                    <td>@item.description</td>
+                                    <td>@item.drugPrice</td>
+                                    <td>
+                                       @*  <a class='btn btn-success btn-sm' href="/Pharmacy/edit?patientCode=@item.patientCode">Edit</a> *@
+                                        @* <a class='btn btn-success btn-sm' href="/Shared/Pharmacy/Index?ordonnanceId=@item.ordonnanceId&treatmentId=@item.treatmentId&patientCode=@item.patientCode&drugList=@item.drugList&description=@item.description&drugPrice=@item.drugPrice&handler=GenerateTextFile" download="PharmacyData.txt">Download Ordonnance</a> *@
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

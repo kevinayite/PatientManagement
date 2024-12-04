@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FinalProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FinalProject.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\188011e7-8ca0-4528-97cc-cfba12acaaee_hands.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\188011e7-8ca0-4528-97cc-cfba12acaaee_hands.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\25bd27cd-2263-444f-b198-b4ec957916cf_mypicture.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\25bd27cd-2263-444f-b198-b4ec957916cf_mypicture.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\3c1bd83c-6436-47eb-8b44-a4dd7bde2407_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\3c1bd83c-6436-47eb-8b44-a4dd7bde2407_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\3c6816ea-07c2-45ad-ac5b-d808e51f9262_mypicture.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\3c6816ea-07c2-45ad-ac5b-d808e51f9262_mypicture.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\49badab4-0149-45a0-9763-d4378302747a_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\49badab4-0149-45a0-9763-d4378302747a_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\593cba99-8974-4495-a121-883d930dedc5_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\593cba99-8974-4495-a121-883d930dedc5_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\5a962cae-cfb2-40c8-91e2-ef7f1a58c803_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\5a962cae-cfb2-40c8-91e2-ef7f1a58c803_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\5b257635-88a9-4678-afe1-0ebb58999ae8_mypicture.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\5b257635-88a9-4678-afe1-0ebb58999ae8_mypicture.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\692d4eaa-ac41-4e49-93b4-fb1686ad163e_hands.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\692d4eaa-ac41-4e49-93b4-fb1686ad163e_hands.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\6dabd834-6560-4946-8f2c-2bed315cf3ca_hands.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\6dabd834-6560-4946-8f2c-2bed315cf3ca_hands.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\6dee23ac-ba63-4133-ba36-e9941e5f5873_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\6dee23ac-ba63-4133-ba36-e9941e5f5873_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\70702a93-8e8f-4ce6-8c71-14f76ed709fb_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\70702a93-8e8f-4ce6-8c71-14f76ed709fb_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\7235f475-479e-4a5f-bc42-a7c7505c492a_mypicture.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\7235f475-479e-4a5f-bc42-a7c7505c492a_mypicture.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\73d9ba27-46c1-412c-a23f-6c6d56450993_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\73d9ba27-46c1-412c-a23f-6c6d56450993_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\789d76ed-8ba5-4122-9a22-1c9f11cdcdf7_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\789d76ed-8ba5-4122-9a22-1c9f11cdcdf7_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\7a24a4da-d91c-4d01-8e77-8f8364929b19_mypicture.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\7a24a4da-d91c-4d01-8e77-8f8364929b19_mypicture.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\7c08f18d-0f7b-417d-9173-478e10e77095_mypicture.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\7c08f18d-0f7b-417d-9173-478e10e77095_mypicture.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\7ef297d9-476b-4bc1-8336-ecf6853bbd8a_body_parts.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\7ef297d9-476b-4bc1-8336-ecf6853bbd8a_body_parts.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\8354bc26-c170-43db-9071-819dcb529b00_body_parts.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\8354bc26-c170-43db-9071-819dcb529b00_body_parts.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\8f1dfdfd-19db-4eee-a134-759f6447717b_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\8f1dfdfd-19db-4eee-a134-759f6447717b_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\905ed4a4-e0db-4765-b717-ca828ca2ebc9_hands.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\905ed4a4-e0db-4765-b717-ca828ca2ebc9_hands.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\970e6ac5-ff32-444b-9098-f309ef3ce72c_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\970e6ac5-ff32-444b-9098-f309ef3ce72c_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\d7060c04-7f4f-4ec6-abcb-99d7bee6de75_chest.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\d7060c04-7f4f-4ec6-abcb-99d7bee6de75_chest.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\e50dfb8d-60c0-4285-a394-532e3b8844cc_pharmacy_logo.ico",
+      "PackagePath": "staticwebassets\\uploaded-images\\e50dfb8d-60c0-4285-a394-532e3b8844cc_pharmacy_logo.ico"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\eb994bdf-ff6c-4e27-acab-2f761b070f33_mypicture.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\eb994bdf-ff6c-4e27-acab-2f761b070f33_mypicture.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\f13fabef-0476-42af-9995-d05e2e51d0ca_hands.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\f13fabef-0476-42af-9995-d05e2e51d0ca_hands.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\f1edd9f9-ff74-4621-8e79-0a368b2f7c08_WhatsApp Image 2024-04-16 at 2.33.10 PM (1).jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\f1edd9f9-ff74-4621-8e79-0a368b2f7c08_WhatsApp Image 2024-04-16 at 2.33.10 PM (1).jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\f851fe79-263e-4795-b776-6ef3f4dbd150_mypicture.jpeg",
+      "PackagePath": "staticwebassets\\uploaded-images\\f851fe79-263e-4795-b776-6ef3f4dbd150_mypicture.jpeg"
+    },
+    {
+      "Id": "E:\\AUCA\\AUCA_COURSES\\semester_8\\DotNet\\FinalProject\\wwwroot\\uploaded-images\\ff470ed4-0fec-46a2-8056-b9adc770354f_IMG_6682.JPG",
+      "PackagePath": "staticwebassets\\uploaded-images\\ff470ed4-0fec-46a2-8056-b9adc770354f_IMG_6682.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinalProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FinalProject.props",
+      "PackagePath": "build\\FinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalProject.props",
+      "PackagePath": "buildMultiTargeting\\FinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FinalProject.props",
+      "PackagePath": "buildTransitive\\FinalProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

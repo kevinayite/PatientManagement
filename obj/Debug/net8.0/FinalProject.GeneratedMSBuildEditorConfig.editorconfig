@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FinalProject
+build_property.RootNamespace = FinalProject
+build_property.ProjectDir = E:\AUCA\AUCA_COURSES\semester_8\DotNet\FinalProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\AUCA\AUCA_COURSES\semester_8\DotNet\FinalProject
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Pharmacy/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGhhcm1hY3lcQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Pharmacy/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGhhcm1hY3lcZWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Pharmacy/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGhhcm1hY3lcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Pharmacy/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGhhcm1hY3lcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Receptionist/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZXB0aW9uaXN0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Receptionist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZXB0aW9uaXN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Receptionist/UpdatePayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZXB0aW9uaXN0XFVwZGF0ZVBheW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Services/DeleteService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcRGVsZXRlU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Services/Displaying.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcRGlzcGxheWluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Services/InsertService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcSW5zZXJ0U2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Services/UpdateService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcVXBkYXRlU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Treatments/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlYXRtZW50c1xJbnNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Treatments/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlYXRtZW50c1x1cGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AUCA/AUCA_COURSES/semester_8/DotNet/FinalProject/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-srxpow6wk7

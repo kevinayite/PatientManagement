@@ -1,0 +1,56 @@
+﻿@page
+@model GroupFourDotNet.Pages.Services.DisplayingModel
+
+@{
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <div class="card bg-white shadow-sm mb-4">
+                <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
+                    <h2 class="mb-0">List of Services</h2>
+                    <a class='btn btn-light btn-sm' href='/Services/InsertService'>Insert a New Service</a>
+                    <a class='btn btn-light btn-sm' href='/Employee/Create'> Employee</a>
+                </div>
+                <div class="card-body p-0">
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover mb-0">
+                            <thead class="bg-light">
+                                <tr>
+                                    <th scope="col">Id Number</th>
+                                    <th scope="col">Type of Service</th>
+                                    <th scope="col">Price of the Service</th>
+                                    <th scope="col" class="text-center">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.listService)
+                                {
+                                    <tr>
+                                        <td>@item.id</td>
+                                        <td>@item.type</td>
+                                        <td>@item.price</td>
+                                        <td class="text-center">
+                                            <a class='btn btn-success btn-sm me-2' href="/Services/UpdateService?id=@item.id">Edit</a>
+                                            <a class='btn btn-danger btn-sm' onclick="confirmDelete('@item.id')">Delete</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JavaScript function for confirmation -->
+<script>
+    function confirmDelete(id) {
+        if (confirm('Are you sure you want to delete this record?')) {
+            window.location.href = '/Services/DeleteService?id=' + id;
+        }
+    }
+</script>
